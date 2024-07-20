@@ -4,3 +4,4 @@ Scenario 2 : Ticket is cancelled
 //this is scenario is added by me
 Scenario 2: Ticket is booked
 >>>>>>> ramya
+SCenario 3: we can board now
