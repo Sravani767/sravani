@@ -1,1 +1,2 @@
 Scenario 1: book ticket from Chennai to Bhimavram
+Scenario 2 : Ticket is cancelled
