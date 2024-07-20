@@ -1,2 +1,6 @@
 Scenario 1: book ticket from Chennai to Bhimavram
+// this scenario is added by preethi
 Scenario 2 : Ticket is cancelled
+//this is scenario is added by me
+Scenario 2: Ticket is booked
+>>>>>>> ramya
